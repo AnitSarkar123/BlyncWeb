@@ -10,7 +10,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
 
   other: {
-    "google-adsense-account": siteConfig.adsenseId,
+    // siteConfig may not expose adsenseId in its type; coerce to any to avoid TS errors
+    "google-adsense-account": (siteConfig as any).adsenseId,
   },
 
   title: {
@@ -108,7 +109,7 @@ export default function RootLayout({
         {/* ✅ Google AdSense — afterInteractive keeps it off the critical path */}
         <Script
           async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsenseId}`}
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${(siteConfig as any).adsenseId}`}
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />

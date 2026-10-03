@@ -10,6 +10,11 @@ export const siteConfig = {
   shortName: "Blync",
   url: "https://www.cognitivegames.me",
   ogImage: "/og-logo.png",
+  locale: "en_US",
+  creator: "@Blync",
+  adsenseId: process.env.NEXT_PUBLIC_ADSENSE_ID ?? "",
+  analyticsId: process.env.NEXT_PUBLIC_GA_ID ?? "",
+  umamiId: process.env.NEXT_PUBLIC_UMAMI_ID ?? "",
   description:
     "Capgemini & Cognizant game-based aptitude practice on Blync. Switch, Grid, Digit, Motion, Inductive & Deductive Challenges — full tutorials, mock tests & solutions for 2026 placements with Blync Pro.",
   keywords: [
@@ -101,9 +106,9 @@ export const siteConfig = {
     "grid challenge test"
   ],
   links: {
-    
+    twitter: "https://x.com/blync",
+    instagram: "https://www.instagram.com/blync/",
     github: "https://github.com/AnitSarkar123/BlyncWeb",
-    
   },
 
 } as const;
