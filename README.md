@@ -45,7 +45,7 @@ Get the project running locally in under 2 minutes:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/NishulDhakar/BlyncWeb.git
+git clone https://github.com/AnitSarkar123/BlyncWeb.git
 cd BlyncWeb
 ```
 

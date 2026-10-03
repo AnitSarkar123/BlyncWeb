@@ -101,15 +101,11 @@ export const siteConfig = {
     "grid challenge test"
   ],
   links: {
-    twitter: "https://twitter.com/nishuldhakar",
-    github: "https://github.com/NishulDhakar/BlyncWeb",
-    instagram: "https://instagram.com/blyncgames",
+    
+    github: "https://github.com/AnitSarkar123/BlyncWeb",
+    
   },
-  creator: "@nishuldhakar",
-  locale: "en_IN",
-  adsenseId: "ca-pub-6271827630758167",
-  analyticsId: "G-2WMDWXGJK7",
-  umamiId: "c97607d1-dd2e-479f-b785-a935c0dd5e79",
+
 } as const;
 
 // ── Game catalogue (derived) ─────────────────────────────────────────────────

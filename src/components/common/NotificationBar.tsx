@@ -97,7 +97,7 @@ export default function NotificationBar({ className }: { className?: string }) {
         id: "notif-star-repo",
         title: "Star this repo on GitHub",
         description: "Star BlyncWeb repository to support open-source development and track releases.",
-        href: "https://github.com/NishulDhakar/BlyncWeb",
+        href: "https://github.com/AnitSarkar123/BlyncWeb",
         isExternal: true,
         tag: "Open Source",
         icon: Star,
