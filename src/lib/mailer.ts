@@ -18,7 +18,7 @@ export async function sendWelcomeEmail(to: string, name: string) {
 Welcome to Blync — the place to sharpen your aptitude for Capgemini and Cognizant placements.
 
 You're all set. Jump in and start playing:
-https://www.cognitivegames.me/games/cognitive
+https://www.https://blync-web-gamma.vercel.app/games/cognitive
 `;
 
   await transporter.sendMail({

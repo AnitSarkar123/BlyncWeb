@@ -30,7 +30,7 @@ async function sendBatch(
   for (const { recipientId, email } of emails) {
     try {
       await transporter.sendMail({
-        from: `"CognitiveGames.me" <${process.env.SMTP_USER}>`,
+        from: `"https://blync-web-gamma.vercel.app/" <${process.env.SMTP_USER}>`,
         to: email,
         subject,
         text,

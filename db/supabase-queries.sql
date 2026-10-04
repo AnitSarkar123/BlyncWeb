@@ -1,5 +1,5 @@
 -- ============================================================================
--- Blync / cognitivegames.me — SUPABASE QUERY FILE
+-- Blync / https://blync-web-gamma.vercel.app/ — SUPABASE QUERY FILE
 -- Project: cognitiveGames (kervmgpbthhebsmeltxn)
 -- ============================================================================
 -- Checked against the live database on 2026-09-09. Already present and

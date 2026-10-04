@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Blync** is a Next.js 16 (App Router) web platform for practicing game-based cognitive aptitude tests used by Capgemini and Cognizant during campus placements. Live at [cognitivegames.me](https://www.cognitivegames.me).
+**Blync** is a Next.js 16 (App Router) web platform for practicing game-based cognitive aptitude tests used by Capgemini and Cognizant during campus placements. Live at [https://blync-web-gamma.vercel.app/](https://blync-web-gamma.vercel.app/).
 
 ## Tech Stack
 

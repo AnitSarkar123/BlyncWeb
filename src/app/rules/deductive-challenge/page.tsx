@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "deductive challenge rules"
   ],
   alternates: {
-    canonical: "https://www.cognitivegames.me/rules/deductive-challenge",
+    canonical: "https://www.https://blync-web-gamma.vercel.app//rules/deductive-challenge",
   },
   openGraph: {
     title: "Deductive Challenge Practice Guide 2026 — Capgemini Prep",
     description: "Deductive Challenge practice guide for Capgemini placement. Logic tips & mock tests with Blync Pro.",
-    url: "https://www.cognitivegames.me/rules/deductive-challenge",
+    url: "https://www.https://blync-web-gamma.vercel.app//rules/deductive-challenge",
     type: "article",
   },
 };

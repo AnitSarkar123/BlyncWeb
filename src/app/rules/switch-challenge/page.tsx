@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "switch challenge online"
   ],
   alternates: {
-    canonical: "https://www.cognitivegames.me/rules/switch-challenge",
+    canonical: "https://www.https://blync-web-gamma.vercel.app//rules/switch-challenge",
   },
   openGraph: {
     title: "Switch Challenge Practice Guide 2026 — Capgemini Test Prep",
     description: "Switch Challenge rules and practice guide for Capgemini placement. Pattern recognition tips, mock tests with Blync Pro.",
-    url: "https://www.cognitivegames.me/rules/switch-challenge",
+    url: "https://www.https://blync-web-gamma.vercel.app//rules/switch-challenge",
     type: "article",
   },
 };

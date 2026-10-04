@@ -59,8 +59,8 @@ export function SettingsClient({
 
   // General Settings State
   const [general, setGeneral] = useState({
-    platformName: initialSettings.general?.platformName || "CognitiveGames.me",
-    supportEmail: initialSettings.general?.supportEmail || "blyncgames@gmail.com",
+    platformName: initialSettings.general?.platformName || "https://blync-web-gamma.vercel.app/",
+    supportEmail: initialSettings.general?.supportEmail || "anitsarkar04@gmail.com",
     maintenanceMode: initialSettings.general?.maintenanceMode || false,
     allowRegistrations: initialSettings.general?.allowRegistrations ?? true,
   });
@@ -570,7 +570,7 @@ export function SettingsClient({
                 className="h-8 text-xs font-mono"
               />
               <span className="text-[10px] text-muted-foreground mt-1 block">
-                The account must already be registered on CognitiveGames.me.
+                The account must already be registered on https://blync-web-gamma.vercel.app/.
               </span>
             </div>
 

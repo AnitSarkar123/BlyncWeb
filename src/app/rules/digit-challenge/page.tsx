@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "capgemini digit challenge online"
   ],
   alternates: {
-    canonical: "https://www.cognitivegames.me/rules/digit-challenge",
+    canonical: "https://www.https://blync-web-gamma.vercel.app//rules/digit-challenge",
   },
   openGraph: {
     title: "Digit Challenge Practice Guide 2026 — Capgemini Test Prep",
     description: "Digit Challenge practice guide for Capgemini placement. Expert tips, number sequence strategies & mock tests with Blync Pro.",
-    url: "https://www.cognitivegames.me/rules/digit-challenge",
+    url: "https://www.https://blync-web-gamma.vercel.app//rules/digit-challenge",
     type: "article",
   },
 };

@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "motion challenge online"
   ],
   alternates: {
-    canonical: "https://www.cognitivegames.me/rules/motion-challenge",
+    canonical: "https://www.https://blync-web-gamma.vercel.app//rules/motion-challenge",
   },
   openGraph: {
     title: "Motion Challenge Practice Guide 2026 — Capgemini Game Prep",
     description: "Motion Challenge practice guide for Capgemini placement. Expert tips, pattern strategies & mock tests with Blync Pro.",
-    url: "https://www.cognitivegames.me/rules/motion-challenge",
+    url: "https://www.https://blync-web-gamma.vercel.app//rules/motion-challenge",
     type: "article",
   },
 };

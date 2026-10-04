@@ -9,7 +9,7 @@ import { auth } from "@/lib/auth";
 
 export const metadata: Metadata = {
   robots: { index: false, follow: false },
-  title: "Admin Panel | CognitiveGames.me",
+  title: "Admin Panel | https://blync-web-gamma.vercel.app/",
 };
 
 export default async function AdminLayout({
@@ -39,7 +39,7 @@ export default async function AdminLayout({
         </h1>
         <p className="mt-2 max-w-md text-sm text-muted-foreground leading-relaxed">
           Your account (<strong>{session.user.email}</strong>) is not authorized
-          to access the CognitiveGames.me internal administrator console.
+          to access the https://blync-web-gamma.vercel.app/ internal administrator console.
         </p>
         <div className="mt-6 flex items-center gap-3">
           <Link

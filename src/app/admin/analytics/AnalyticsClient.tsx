@@ -212,7 +212,7 @@ export function AnalyticsClient({ data }: { data: AnalyticsData }) {
               Monetization Model Health
             </h3>
             <p className="text-xs text-muted-foreground leading-relaxed">
-              CognitiveGames.me runs on two recurring tier structures: Monthly Pro (₹49/month) and Biannual Pro (₹199/6 months). Payments are processed and auto-renewed directly via Razorpay Subscriptions.
+              https://blync-web-gamma.vercel.app/ runs on two recurring tier structures: Monthly Pro (₹49/month) and Biannual Pro (₹199/6 months). Payments are processed and auto-renewed directly via Razorpay Subscriptions.
             </p>
           </div>
         </div>

@@ -125,7 +125,7 @@ export default async function Image() {
             fontSize: 18,
           }}
         >
-          cognitivegames.me
+          https://blync-web-gamma.vercel.app/
         </div>
       </div>
     ),

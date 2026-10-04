@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     "inductive challenge rules"
   ],
   alternates: {
-    canonical: "https://www.cognitivegames.me/rules/inductive-challenge",
+    canonical: "https://www.https://blync-web-gamma.vercel.app//rules/inductive-challenge",
   },
   openGraph: {
     title: "Inductive Challenge Practice Guide 2026 — Capgemini Prep",
     description: "Inductive Challenge practice guide for Capgemini placement. Abstract reasoning tips & mock tests with Blync Pro.",
-    url: "https://www.cognitivegames.me/rules/inductive-challenge",
+    url: "https://www.https://blync-web-gamma.vercel.app//rules/inductive-challenge",
     type: "article",
   },
 };

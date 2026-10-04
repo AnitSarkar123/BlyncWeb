@@ -114,7 +114,7 @@ export default function ProfileClient({
 
       {/* ── Minimal Footer ─────────────────────────────────────────────── */}
       <div className="flex flex-wrap items-center justify-between gap-3 border-t border-border/40 pt-4 text-xs text-muted-foreground">
-        <span>CognitiveGames.me</span>
+        <span>https://blync-web-gamma.vercel.app/</span>
         <div className="flex items-center gap-3">
           <Link
             href="/dashboard/mock-tests"

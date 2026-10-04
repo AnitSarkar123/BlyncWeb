@@ -8,7 +8,7 @@ import type { GameCategory } from "@/games/types";
 export const siteConfig = {
   name: "Blync Cognitive Games",
   shortName: "Blync",
-  url: "https://www.cognitivegames.me",
+  url: "https://www.https://blync-web-gamma.vercel.app/",
   ogImage: "/og-logo.png",
   locale: "en_US",
   creator: "@Blync",

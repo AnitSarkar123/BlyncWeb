@@ -17,12 +17,12 @@ export const metadata: Metadata = {
     "grid challenge rules"
   ],
   alternates: {
-    canonical: "https://www.cognitivegames.me/rules/grid-challenge",
+    canonical: "https://www.https://blync-web-gamma.vercel.app//rules/grid-challenge",
   },
   openGraph: {
     title: "Grid Challenge Practice Guide 2026 — Capgemini Game Guide",
     description: "Grid Challenge practice guide for Capgemini placement. Expert tips & spatial reasoning mock tests with Blync Pro.",
-    url: "https://www.cognitivegames.me/rules/grid-challenge",
+    url: "https://www.https://blync-web-gamma.vercel.app//rules/grid-challenge",
     type: "article",
   },
 };
