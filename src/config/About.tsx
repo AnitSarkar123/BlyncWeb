@@ -18,6 +18,6 @@ export const about = {
     Blync aims to bridge the gap between traditional aptitude prep and modern game-based learning.  
     With Blync, you don’t just study — you **play, learn, and get placement ready**.
 
-    **Nishul build this website , he is good developer**
+    **Anit Sarkar** build this website , he is good developer
   `,
 };

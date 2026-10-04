@@ -81,18 +81,7 @@ export default function NotificationBar({ className }: { className?: string }) {
   // Base list of notifications
   const allNotifications: NotificationItem[] = useMemo(
     () => [
-      {
-        id: "notif-linkedin",
-        title: "Follow on LinkedIn",
-        description: "Connect with Nishul Dhakar for updates, tips & hiring announcements.",
-        href: "https://www.linkedin.com/in/nishuldhakar/",
-        isExternal: true,
-        tag: "Community",
-        icon: Linkedin,
-        iconBg: "bg-sky-500/15 border border-sky-500/30",
-        iconColor: "text-sky-600 dark:text-sky-400",
-        actionLabel: "Follow",
-      },
+      
       {
         id: "notif-star-repo",
         title: "Star this repo on GitHub",

@@ -154,7 +154,7 @@ export default function Hero() {
         variant="outline"
         className="h-12 rounded-full px-6 text-sm font-semibold"
       >
-        <Link href="https://www.linkedin.com/in/nishuldhakar/">
+        <Link href="https://www.linkedin.com/">
           Let's Connect
           <ChevronRight className="size-4" />
         </Link>
@@ -206,7 +206,7 @@ export default function Hero() {
             />
           </div>
           <span className="text-md font-bold text-foreground">
-            By Nishul
+            By Anit Sarkar
           </span>
         </a>
 

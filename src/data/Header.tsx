@@ -30,10 +30,7 @@ export const navbarConfig = {
     //   label: 'Dashboard',
     //   href: '/dashboard',
     // },
-    // {
-    //   label: 'open to work',
-    //   href: 'https://www.nishul.dev/',
-    // },
+
     //        {
     //   label: 'More stuff',
     //   href: '/morestuff',

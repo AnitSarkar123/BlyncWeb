@@ -7,12 +7,7 @@ const nextConfig: NextConfig = {
 
   images: {
     remotePatterns: [
-      { protocol: "https", hostname: "games.nishul.dev" },
-      { protocol: "https", hostname: "www.nishul.dev" },
-      { protocol: "https", hostname: "cognitivegames.me" },
-      { protocol: "https", hostname: "www.cognitivegames.me" },
-      // Avatar images from Google OAuth
-      { protocol: "https", hostname: "lh3.googleusercontent.com" },
+      
     ],
     formats: ["image/avif", "image/webp"],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920],

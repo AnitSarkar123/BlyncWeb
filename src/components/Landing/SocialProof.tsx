@@ -158,16 +158,7 @@ export default function SocialProof() {
             <span className="text-sm text-muted-foreground">
               Join thousands of students already preparing with Blync
             </span>
-            <span className="text-xs text-muted-foreground/50">•</span>
-            <a
-              href="https://www.linkedin.com/in/nishuldhakar/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-sm font-medium text-blue-400 hover:text-blue-300 transition-colors"
-            >
-              Follow us on LinkedIn
-              <ExternalLink className="w-3.5 h-3.5" />
-            </a>
+           
           </div>
         </motion.div>
       </Container>

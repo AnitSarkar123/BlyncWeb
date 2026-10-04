@@ -167,7 +167,7 @@ function Navbar() {
           <div className="flex items-center gap-2 md:gap-3">
             {/* GitHub stars — desktop only */}
             <div className="hidden md:flex">
-              <GitHubStarsButton username="NishulDhakar" repo="BlyncWeb" />
+              <GitHubStarsButton username="AnitSarkar123" repo="BlyncWeb" />
             </div>
 
             <ThemeToggle />
@@ -331,7 +331,7 @@ function Navbar() {
             {/* Divider + GitHub stars */}
             <div className="px-4 pb-4 pt-1 border-t border-border/40 flex flex-col gap-6">
               <GitHubStarsButton
-                username="NishulDhakar"
+                username="AnitSarkar123"
                 repo="BlyncWeb"
                 className="w-full justify-center"
               />

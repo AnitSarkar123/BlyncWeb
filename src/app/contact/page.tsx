@@ -117,32 +117,8 @@ export default function ContactPage() {
                       Follow us on social media for updates and resources
                     </p>
                   </div>
-                  <div className="flex flex-wrap justify-center gap-4 mt-auto">
-                    <a
-                      href="https://instagram.com/blyncgames"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-sm font-medium text-primary hover:underline"
-                    >
-                      <Instagram className="h-4 w-4" /> Instagram
-                    </a>
-                    <a
-                      href="https://linkedin.com/in/nishuldhakar"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-sm font-medium text-primary hover:underline"
-                    >
-                      <Linkedin className="h-4 w-4" /> LinkedIn
-                    </a>
-                    <a
-                      href="https://twitter.com/nishuldhakar"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-sm font-medium text-primary hover:underline"
-                    >
-                      <Twitter className="h-4 w-4" /> Twitter
-                    </a>
-                  </div>
+                  
+                 
                 </CardContent>
               </Card>
             </motion.div>

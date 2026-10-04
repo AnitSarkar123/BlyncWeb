@@ -17,10 +17,11 @@ import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 const EFFECTIVE_DATE = "June 17, 2026";
 const LAST_UPDATED = "June 17, 2026";
 const APP_NAME = "Blync";
-const PACKAGE_NAME = "com.nishuldhakar.blync";
-const DEVELOPER_NAME = "Nishul Dhakar";
-const CONTACT_EMAIL = "nishul@cognitivegames.me";
-const WEBSITE = "https://www.cognitivegames.me";
+const PACKAGE_NAME = "com.blync.games";
+const DEVELOPER_NAME = "Anit Sarkar";
+const CONTACT_EMAIL = "anitsarkar04@gmail.com";
+const WEBSITE = "https://blync-web-gamma.vercel.app/";
+
 
 const sections = [
     {
